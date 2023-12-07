@@ -1,1 +1,1 @@
-d
+After working on a branch, you may want to merge the changes back into the main branch (e.g., master). First, switch to the branch where you want to merge changes, and then use the git merge command:
