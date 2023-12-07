@@ -1,1 +1,5 @@
-i am vikas
+<<<<<<< HEAD
+i am v:ikassss
+=======;
+this  for data 01
+>>>>>>> myfirstBranch
